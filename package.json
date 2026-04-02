@@ -1,9 +1,8 @@
 {
-  "dependencies": {
-    "@supabase/supabase-js": "^2.101.1",
-    "axios": "^1.14.0",
-    "dotenv": "^17.4.0",
-    "express": "^5.2.1",
-    "tesseract.js": "^7.0.0"
+  "name": "slip-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
   }
 }
